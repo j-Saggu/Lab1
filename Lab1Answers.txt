@@ -5,5 +5,5 @@
 5) 301, http://www.google.com/
 6) 418, curl -iL, 418 I'm a Teapot
 7) Output says, under FormContents, MiniFieldStorage('X', 'Y'), not sure what the benefit is
-8) https://github.com/j-Saggu/Lab1/blob/main/lab1.py
+8) https://raw.githubusercontent.com/j-Saggu/Lab1/main/Lab1Answers.txt
 
