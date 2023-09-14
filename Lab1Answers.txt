@@ -1,0 +1,9 @@
+1) https://github.com/j-Saggu
+2) 2.22.0
+3) it is installed and the version is 2.31.0
+4) The non-virtual environment version 2.22.0 and the virtual environment is 2.31.0
+5) 301, http://www.google.com/
+6) 418, curl -iL, 418 I'm a Teapot
+7) Output says, under FormContents, MiniFieldStorage('X', 'Y'), not sure what the benefit is
+8) https://github.com/j-Saggu/Lab1/blob/main/lab1.py
+
